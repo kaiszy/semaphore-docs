@@ -21,7 +21,7 @@ Using runners offers the following advantages:
 The runner comes as part of Semaphore and is launched with the following command:
 
 ```bash
-semaphore runner --config ./config.json
+semaphore runner start --config ./config.json
 ```
 
 The configuration file should contain a `runner` section with the following parameters:
